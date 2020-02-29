@@ -1,0 +1,20 @@
+ .hidden {
+	 width: 236px;
+	display: none;
+	transition: visibility 0s, opacity 0.5s linear;
+ }
+ .add-body {
+	padding: 10px;
+	border: 1px solid;
+ }
+ /* .input-search {
+	 width: 85% !;
+ } */
+
+ .btn-heading {
+	 display: none !important;
+	 transition: all 2s linear;
+ }
+.btn-group {
+	display: inline !important;
+}

@@ -1,0 +1,32 @@
+[
+	{
+		"id":1,
+		"name":"Hoang Thu",
+		"tel":"0131221",
+		"permision":2
+	},
+	{
+		"id":2,
+		"name":"Minh Tu",
+		"tel":"0131221",
+		"permision":1
+	},
+	{
+		"id":3,
+		"name":"Duy Trinh",
+		"tel":"0131221",
+		"permision":2
+	},
+	{
+		"id":4,
+		"name":"Kim Ngan",
+		"tel":"0131221",
+		"permision":1
+	},
+	{
+		"id":5,
+		"name":"Kim Hien",
+		"tel":"0131221",
+		"permision":1
+	}
+]
